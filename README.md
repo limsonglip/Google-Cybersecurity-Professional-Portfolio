@@ -12,7 +12,7 @@ This repository serves to document and showcase my solutions for portfolio activ
 
 | Course                                         | Portfolio Activity         |
 |-----------------------------------------------|----------------------------|
-| 1. Foundations of Cybersecurity | <a href="https://github.com/limsonglip/Google-Cybersecurity-Professional-Portfolio/blob/main/1.%20Professional%20Statement">Professional Statement</a>|
+| 1. Foundations of Cybersecurity | <a href="1. Professional Statement">Professional Statement</a>|
 | 2. Play It Safe: Manage Security Risks | <a href="https://google.com">Controls and Compliance Checklist</a>|
 | 3. Connect and Protect: Networks and Network Security | <a href="https://google.com">Incident Report Analysis</a>|
 | 4. Tools of the Trade: Linux and SQL | <a href="https://google.com">File Permissions in Linux</a>|
