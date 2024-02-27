@@ -1,19 +1,17 @@
-# Professional Statement
-
-## Task
+# Task
 
 To develop a professional statement that briefly explains who I am and what I am passionate about, following the steps outlined:
 
-### Step one: List two to three strengths that I currently have or are committed to developing
+## Step one: List two to three strengths that I currently have or are committed to developing
 - Problem-solving skills
 - Attention to detail
 - Continuous learning
 
-### Step two: List one to two values I have
+## Step two: List one to two values I have
 - Collaboration
 - Integrity
 
-### Step three: Ask myself some clarifying questions to determine what to include in your professional statement
+## Step three: Ask myself some clarifying questions to determine what to include in your professional statement
 - What most interests me about the field of cybersecurity?
   - The dynamic and ever-evolving nature which in turn compels cybersecurity professionals to constantly learn and grow
 - Who is the audience for my professional statement?
