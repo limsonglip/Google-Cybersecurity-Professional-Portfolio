@@ -1,6 +1,6 @@
 # Google Cybersecurity Professional Portfolio
 
-Hello world, I am Song Lip! I'm currently pursuing a mid-career transition into cybersecurity with a passion for tech and problem-solving.
+Hello world, I am Song Lip! Passionate about tech and problem-solving, I'm currently pursuing a mid-career transition into cybersecurity.
 
 <a href="https://www.linkedin.com/in/song-lip-lim/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -27,8 +27,8 @@ This repository serves to document and showcase my solutions for portfolio activ
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-777BB4?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -45,7 +45,6 @@ This repository serves to document and showcase my solutions for portfolio activ
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,7 +52,3 @@ This repository serves to document and showcase my solutions for portfolio activ
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
