@@ -11,16 +11,10 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 Follow the instructions to complete each step of the activity.
 
-## Step 1: Access supporting materials
-The following supporting materials will help you complete this activity. Keep materials open as you proceed to the next steps. 
-To use the supporting materials for this course item, click the links. 
+## Step 1: Access supporting material
+The following supporting material will help you complete this activity. Keep the material open as you proceed to the next step. 
 
-Links to supporting materials:
-
-Botium Toys: Scope, goals, and risk assessment report
-
-Control categories
+Link to supporting material: Botium Toys: <a href="2. Controls and Compliance Checklist/Botium Toys Scope, goals, and risk assessment report.pdf">Botium Toys: Scope, goals, and risk assessment report</a>
 
 ## Step 2: Conduct the audit: Controls and compliance checklist
 Finally, be sure to download and save a copy of your completed activity to your own device. You can upload it to the portfolio platform of your choice, then share with potential employers to help demonstrate your knowledge and experience.
-
