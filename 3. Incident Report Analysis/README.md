@@ -25,7 +25,7 @@ Follow the instructions to complete each step of the activity.
 
 ## Step 1: Access supporting material
 
-Link to supporting material: <a href="3. Incident Report Analysis/Applying the NIST CSF.pdf">Applying the NIST CSF</a>
+Link to supporting material: <a href="Applying the NIST CSF.pdf">Applying the NIST CSF</a>
 
 ## Step 2: Summarize the security event
 
