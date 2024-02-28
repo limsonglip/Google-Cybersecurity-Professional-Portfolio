@@ -15,7 +15,7 @@ Follow the instructions to complete each step of the activity.
 ## Step 1: Access supporting material
 The following supporting material will help to complete this activity.
 
-Link to supporting material: Botium Toys: <a href="2. Controls and Compliance Checklist/Botium Toys Scope, goals, and risk assessment report.pdf">Botium Toys: Scope, goals, and risk assessment report</a>
+Link to supporting material: Botium Toys: <a href="Botium Toys Scope, goals, and risk assessment report.pdf">Botium Toys: Scope, goals, and risk assessment report</a>
 
 ## Step 2: Conduct the audit: Controls and compliance checklist
 Finally, be sure to download and save a copy of the completed activity. Upload it to the portfolio platform, then share with potential employers to help demonstrate knowledge and experience.
