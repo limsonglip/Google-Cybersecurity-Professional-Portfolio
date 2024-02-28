@@ -14,7 +14,7 @@ This repository serves to document and showcase my solutions for portfolio activ
 |-----------------------------------------------|----------------------------|
 | 1. Foundations of Cybersecurity | <a href="1. Professional Statement">Professional Statement</a>|
 | 2. Play It Safe: Manage Security Risks | <a href="2. Controls and Compliance Checklist">Controls and Compliance Checklist</a>|
-| 3. Connect and Protect: Networks and Network Security | <a href="https://google.com">Incident Report Analysis</a>|
+| 3. Connect and Protect: Networks and Network Security | <a href="3. Incident Report Analysis">Incident Report Analysis</a>|
 | 4. Tools of the Trade: Linux and SQL | <a href="https://google.com">File Permissions in Linux</a>|
 | 4. Tools of the Trade: Linux and SQL | <a href="https://google.com">Apply Filters to SQL Queries</a>|
 | 5. Assets, Threats, and Vulnerabilities | <a href="https://google.com">Vulnerability Assessment Report</a>|
