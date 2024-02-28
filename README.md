@@ -8,7 +8,7 @@ Hello world, I am Song Lip! Passionate about tech and problem-solving, I'm curre
 
 This repository serves to document and showcase my solutions for portfolio activities within the Google Cybersecurity Professional Certificate program.
 
-## Skills
+## Directory
 
 | Course                                         | Portfolio Activity         |
 |-----------------------------------------------|----------------------------|
