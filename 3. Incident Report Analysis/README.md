@@ -25,7 +25,7 @@ Follow the instructions to complete each step of the activity.
 
 ## Step 1: Access supporting material
 
-Link to supporting material: Applying the NIST CSF
+Link to supporting material: <a href="2. Controls and Compliance Checklist/Botium Toys Scope, goals, and risk assessment report.pdf">Applying the NIST CSF</a>
 
 ## Step 2: Summarize the security event
 
