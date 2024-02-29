@@ -42,6 +42,6 @@ Describe the command used and its output in the Change directory permissions sec
 
 ## Step 7: Finalize your document
 
-To finalize the document and make its purpose clear to potential employers, be sure to complete the Project description and Summary sections of "File permissions in Linux". 
-In the Project description section, give a general overview of the scenario and what was accomplish through Linux. Write two to four sentences.
-In the Summary section, provide a short summary of the previous tasks and connect them to the scenario. Write approximately two to four sentences.
+To finalize the document and make its purpose clear to potential employers, be sure to complete the Project description and Summary sections of "File permissions in Linux". In the Project description section, give a general overview of the scenario and what was accomplish through Linux. Write two to four sentences. In the Summary section, provide a short summary of the previous tasks and connect them to the scenario. Write approximately two to four sentences.
+
+View how I updated file permissions in Linux <a href="File permissions in Linux.pdf">here</a>.
