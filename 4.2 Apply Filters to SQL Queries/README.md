@@ -47,3 +47,5 @@ Describe this query and how it works in the Retrieve all employees not in IT sec
 ## Step 8: Finalize your document
 
 To finalize the document and make its purpose clear to potential employers, be sure to complete the Project description and Summary sections. In the Project description section, give a general overview of the scenario and what you accomplish through SQL. Write two to four sentences. In the Summary section, provide a short summary of the previous tasks and connect them to the scenario. Write approximately two to four sentences.
+
+View how I applied filters to SQL queries <a href="Apply Filters to SQL Queries.pdf">here</a>.
