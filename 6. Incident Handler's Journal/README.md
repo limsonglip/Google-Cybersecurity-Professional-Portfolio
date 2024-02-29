@@ -29,4 +29,6 @@ Be sure to include:
   - Why did the incident happen?
 - 1-2 sentences on any additional thoughts or questions about the scenario.
 
-Save a copy of the incident handler's journal to demonstrate knowledge and/or experience to potential employers.
+Save a copy of the Incident Handler's Journal to demonstrate knowledge and/or experience to potential employers.
+
+View my Incident Handler's Journal <a href="Incident Handler's Journal.pdf">here</a>.
