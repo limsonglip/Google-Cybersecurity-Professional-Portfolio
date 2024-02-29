@@ -19,3 +19,5 @@ Link to supporting material: Botium Toys: <a href="Botium Toys Scope, goals, and
 
 ## Step 2: Conduct the audit: Controls and compliance checklist
 Finally, be sure to download and save a copy of the completed activity. Upload it to the portfolio platform, then share with potential employers to help demonstrate knowledge and experience.
+
+View my Controls and Compliance Checklist <a href="Controls and Compliance Checklist.pdf">here</a>.
