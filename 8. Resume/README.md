@@ -62,3 +62,5 @@ Complete the resume with a section that further stands out to potential employer
 ## Step 8: Proofread resume
 
 It's critical to carefully proofread the resume for spelling, grammatical, and punctuation errors. Correcting any mistakes demonstrates attention to detail. Make sure the resume is as concise as possible. Ideally, the length of the resume should be no more than one or two pages, particularly early on in the career. Choose a more precise word or concise phrasing.
+
+View my resume <a href="Lim Song Lip Resume.pdf">here</a>.
