@@ -49,3 +49,5 @@ Describe the Python syntax, functions, and keywords needed to accomplish this in
 ## Step 7: Finalize your document
 
 To finalize the document and make its purpose clear to potential employers, be sure to complete the Project description and Summary sections. In the Project description section, give a general overview of the scenario and what you accomplished in Python. Write three to five sentences. In the Summary section, provide a short summary of the algorithm by highlighting its main components. Write four to six sentences.
+
+View how I updated a file through a Python algorithm <a href="Update a file through a Python Algorithm.pdf">here</a>.
