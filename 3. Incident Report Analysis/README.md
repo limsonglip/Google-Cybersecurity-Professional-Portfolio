@@ -21,8 +21,6 @@ As a cybersecurity analyst, I am tasked with using this security event to create
 
 # Step-By-Step Instructions
 
-Follow the instructions to complete each step of the activity.
-
 ## Step 1: Access supporting material
 
 Link to supporting material: <a href="Applying the NIST CSF.pdf">Applying the NIST CSF</a>
@@ -67,3 +65,5 @@ Consider the following questions:
 - What information does the team need to be able to recover immediately? 
 - What processes are in place to help the organization recover from the incident? 
 - Write the response in the “Recover” portion of the worksheet.
+
+View my Incident Report Analysis <a href="Incident Report Analysis.md">here</a>.
