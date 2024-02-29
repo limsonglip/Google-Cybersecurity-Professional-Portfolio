@@ -66,4 +66,4 @@ Consider the following questions:
 - What processes are in place to help the organization recover from the incident? 
 - Write the response in the “Recover” portion of the worksheet.
 
-View my Incident Report Analysis <a href="Incident Report Analysis.md">here</a>.
+View my Incident Report Analysis <a href="Incident Report Analysis.pdf">here</a>.
