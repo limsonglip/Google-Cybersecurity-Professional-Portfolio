@@ -20,3 +20,5 @@ To develop a professional statement that briefly explains who I am and what I am
   - My problem-solving skills enables me to analyze the situation and come up with effective solutions to identify and mitigate security risks.
   - Being attentive to details ensures thorough assessments and checks, minimizing the risk of oversight that could lead to breaches in security.
   - By staying up to date with the latest cybersecurity trends and threats, I will be able to adapt existing or adopt new security measures to protect the organization.
+
+View my professional statement <a href="Professional Statement.md">here</a>.
