@@ -55,4 +55,5 @@ This repository serves to document and showcase my solutions for portfolio activ
 ## Certification
 <div>
     <a href="https://coursera.org/share/1a7721968c5913a303e5f9c81517ea2e"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" /></a>
+    <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=7BYQYQ3WG4PLFFCQ"><img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" /></a>
 </div>
