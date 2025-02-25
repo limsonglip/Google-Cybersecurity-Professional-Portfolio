@@ -1,11 +1,5 @@
 # Google Cybersecurity Professional Portfolio
 
-Hello world, I am Song Lip! Passionate about tech and problem-solving, I'm currently pursuing a mid-career transition into cybersecurity.
-
-<a href="https://www.linkedin.com/in/song-lip-lim/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-## Objective
-
 This repository serves to document and showcase my solutions for portfolio activities within the Google Cybersecurity Professional Certificate program.
 
 ## Directory
@@ -52,8 +46,7 @@ This repository serves to document and showcase my solutions for portfolio activ
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
-## Certification
+## Contact
 <div>
-    <a href="https://coursera.org/share/1a7721968c5913a303e5f9c81517ea2e"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" /></a>
-    <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=7BYQYQ3WG4PLFFCQ"><img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" /></a>
+    <a href="https://www.linkedin.com/in/song-lip-lim/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
